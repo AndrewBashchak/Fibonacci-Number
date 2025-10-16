@@ -1,2 +1,2 @@
-﻿# Fibonacci-number-on-JS
-Andrew Bashchak IPZs-24-2
+﻿# Fibonacci Number
+Andrew Bashchak, student of KDU, group: SWs-24-2
